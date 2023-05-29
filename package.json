@@ -1,0 +1,12 @@
+{
+  "name": "api-servitickets",
+  "version": "1.0.0",
+  "description": "crear una carpeta con el nombre del proyecto: \r      mkdir api-ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
